@@ -2,7 +2,7 @@
 <u>Player</u>
 MC - Main Character
 
-<u>Tribe Council</u>
+<h3>Tribe Council</h3>
 <p><ul>
   <li>Matriarch</li>
 War leader
