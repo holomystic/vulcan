@@ -1,0 +1,24 @@
+Default Name: Oliver Legend
+Age:          27
+Height:       5'11''
+Eye Colour:   Blue
+Hair Colour:  Brown
+Sex:          Male
+Nationality:  England
+Role:         Translator/Crewman
+
+Physical Traits:
+ - Thin to normal build
+ - Well endowed
+ - Short haired
+ - Low Endurance
+
+Psychological Traits:
+ - Naturally curious
+ - Whitty
+ - Peverted
+ - Shy
+ - Quick to act when called to action
+ - Determined
+ - Intelligent + Quick Learner
+ - Problem solver
