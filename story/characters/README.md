@@ -3,13 +3,13 @@
 MC - Main Character
 
 <u>Tribe Council</u>
-<p><ol>
+<p><ul>
   <li>Matriarch</li>
 War leader
 Resource Gatherer Head
 Assistant to the Matriarch
 Mystic
-</ol></p>
+</ul></p>
 
 <u>Tribe Non-Council Key Characters</u>
 Love Interest
