@@ -6,15 +6,15 @@
 <hr/>
 <h3>Tribe Council</h3>
 <ul>
-<li>Matriarch</li>
-<li>War leader</li>
-<li>Resource Gatherer Head</li>
-<li>Assistant to the Matriarch</li>
-<li>Mystic</li>
+<li>Shandra - Matriarch</li>
+<li>Kasra - War leader</li>
+<li>Everti - Resource Gatherer Head</li>
+<li>Lyysa - Assistant to the Matriarch</li>
+<li>U'naka - Mystic</li>
 </ul>
 <hr/>
 <h3>Tribe Non-Council Key Characters</h3>
 <ul>
-<li>Love Interest</li>
-<li>MILF of Love Interest</li>
+<li>Vergi (Violet) - Love Interest</li>
+<li>Ceares - MILF of Love Interest</li>
 </ul>
