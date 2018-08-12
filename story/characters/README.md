@@ -1,6 +1,8 @@
 # Character List
 <h3>Player</h3>
-MC - Main Character
+<ul>
+<li>MC - Main Character</li>
+</ul>
 <hr/>
 <h3>Tribe Council</h3>
 <ul>
@@ -9,8 +11,10 @@ MC - Main Character
 <li>Resource Gatherer Head</li>
 <li>Assistant to the Matriarch</li>
 <li>Mystic</li>
-</ul></p>
-
-<u>Tribe Non-Council Key Characters</u>
-Love Interest
-MILF of Love Interest
+</ul>
+<hr/>
+<h3>Tribe Non-Council Key Characters</h3>
+<ul>
+<li>Love Interest</li>
+<li>MILF of Love Interest</li>
+</ul>
