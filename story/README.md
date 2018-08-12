@@ -1,4 +1,4 @@
-You are a translator and crewmen on the ship 'The Marquesa' looking for resources on the newly discovered Americas coast. You leave behind a life of living as a loner and the lack of romantic success that it brought. 
+You are a translator and crewmen on the ship <b>The Marquesa</b> looking for resources on the newly discovered Americas coast. You leave behind a life of living as a loner and the lack of romantic success that it brought. 
 
 You consider yourself a pervert internally but come off as someone with social issues.
 
