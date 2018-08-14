@@ -1,0 +1,61 @@
+Key Goals of this chapter
+- Introduce setting
+- Introduce MC
+- Hook player to MC
+- First crisis which sets the story up
+
+<start>
+
+The year was 1566.
+
+You are sailing aboard The Marquesa on the open sea still yet to see land when the captain calls everyone on deck.
+
+Captain:
+We have been at sea for many days and soon we will be approaching the Americas. 
+I need the ship prepared to set anchor and make our way out to land once we have found a suitable point to disembark. You have your orders.
+
+Captain(Addressing MC):
+Translator, find something useful to do otherwise get off the deck!
+
+Everyone sprang into action, I however was nothing but a lowly shipmate on this voyage. 
+My purpose was to communicate with any local natives we might encounter. 
+Stories of this new land describe an amazing frontier with so many great opportunities and potential for vast riches to be had and knowledge to be learned by making this trip. For once I am proud to be in my position.
+I retired to my cabin where I awaited the call that we were nearing land.
+
+I awoke a few hours later and I could tell the sky was dark out my window. The sea was choppy at this point and our large ship was swaying to and fro. I raced to deck to see where we were but when I emerged I saw what appeared to be chaos all around me.
+
+Captain:
+Batten down the hatches! We need to find calmer waters inland so we can drop anchor!
+Helmsman, turn us into the waves so we don't keel over!
+
+Helmsman:
+Aye aye Captain!
+
+Waves crash on deck as we turned the weight of the ship into the wind. We repeatedly were beaten with larger and larger waves but the ship stable. Suddenly a call from above broke the air.
+
+Lookout:
+I see land! Land ho! 
+
+Running to the edge of the deck I could see large columns of rock appear from behind the shroud of the storm. This was not a good sign. 
+
+Captain:
+Hard a starboard!
+
+Helmsman:
+Aye!
+
+At that moment the ship tipped hard to the right and I felt a loose heavy rope wrap around my feet then catch me and throw me off balance. I fell, landed hard on the deck and smacked my head against the wet planks below me. I could still hear the captain shouting orders as he tried to stabilize the terrible situation.
+
+Captain:
+Secure the sails! Get the deck in order! Someone is going to get killed! We need to bear down to weather this storm.
+
+Lookout:
+Rogue wave!
+
+Captain:
+Hold fast men!
+
+At this point I was losing consciousness and suddenly everything went black. I could feel my body tossed about and hurled into the sea and my mind wandered on what accomplishments I had not made in life. How I had never had a serious relationship or enjoyed the fruits of life. I had been very much a loner and a slave to my work. And now it seemed like my life would end putting a damp cold seal on the story that is me…
+
+
+<end>
