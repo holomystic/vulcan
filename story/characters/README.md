@@ -16,5 +16,5 @@
 <h3>Tribe Non-Council Key Characters</h3>
 <ul>
 <li>Vergi (Violet) - Love Interest</li>
-<li>Ceares - MILF of Love Interest</li>
+<li>Ceres - MILF of Love Interest</li>
 </ul>
