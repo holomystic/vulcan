@@ -1,6 +1,6 @@
 Default Name: Shandra
 Age:          174
-Height:       6'9''
+Height:       6'9'' (114.5%)
 Eye Colour:   Green
 Hair Colour:  Blonde
 Sex:          Female
