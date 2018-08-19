@@ -1,6 +1,6 @@
 Default Name: Everti
 Age:          278
-Height:       6'6''
+Height:       6'6'' (110%)
 Eye Colour:   Green
 Hair Colour:  Red
 Sex:          Female
